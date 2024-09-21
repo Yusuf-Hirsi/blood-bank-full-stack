@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import Video from "../components/images/video.mp4";
 import doctors from "../Components/images/doctors-day.png";
 import blood from "../Components/images/blood-drop.png";
-// import bloodtest from "../components/images/bloodtest.jpg";
+
 import Header from "./pages/Header";
 import Footer from "./Footer";
 import Marquee from "react-fast-marquee"
